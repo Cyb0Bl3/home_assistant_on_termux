@@ -1,3 +1,5 @@
+This is a working script to install home assistant on a redmi 9at 
+with crdroid (Android 16) and installed termux from F-dorid
 Run this from the normal Termux prompt, not from inside Debian.
 
 It will:
